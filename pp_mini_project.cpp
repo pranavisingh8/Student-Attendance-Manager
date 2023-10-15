@@ -58,7 +58,7 @@ public:
 };
 
 int main() {
-    std::map<std::string, std::map<std::string, Classroom>> dateSectionClassroomMap;
+    std::map<std::string, std::map<std::string, Classroom> > dateSectionClassroomMap;
 
     while (true) {
         std::cout << "Student Attendance Manager\n";
@@ -85,7 +85,7 @@ int main() {
                 std::string name;
                 char attendance;
 
-                std::cout << "Enter name for roll no. " << rollNo << ": ";
+                std::cout << "Enter name for Student " << rollNo << ": ";
                 std::cin.ignore(); // Ignore the newline character left in the input stream
                 std::getline(std::cin, name);
 
