@@ -1,5 +1,5 @@
-# Student-Attendance-Manager:wer
-Student Attendance Management System is a simple command-line application written in C++ for managing student attendance in classrooms. The system allows users to input attendance details for students on specific dates and sections, and later retrieve and display those details.
+# Student-Attendance-Manager
+Student Attendance Management System is a simple command-line application written in C++ for managing student attendance in classrooms. The system allows users to input student attendance details on specific dates and sections, and later retrieve and display those details.
 
 ## Features:
 Input student attendance details for a specific date and section.
