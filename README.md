@@ -1,4 +1,4 @@
-# Student-Attendance-Manager: 
+# Student-Attendance-Manager
 Student Attendance Management System is a simple command-line application written in C++ for managing student attendance in classrooms. The system allows users to input student attendance details on specific dates and sections, and later retrieve and display those details.
 
 ## Features:
@@ -7,7 +7,7 @@ Display attendance details for a given date and section.
 Clean-up dynamically allocated memory upon exiting the program.
 How to Use:
 Compile the Code: Ensure you have a C++ compiler installed on your system. Compile the code using your preferred compiler. For example:
-css
+CSS
 g++ main.cpp -o student_attendance
 Run the Program: Execute the compiled program. For example:
 
