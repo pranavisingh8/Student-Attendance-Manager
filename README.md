@@ -1,4 +1,4 @@
-# Student-Attendance-Manager: erty
+# Student-Attendance-Manager: er
 Student Attendance Management System is a simple command-line application written in C++ for managing student attendance in classrooms. The system allows users to input student attendance details on specific dates and sections, and later retrieve and display those details.
 
 ## Features:
