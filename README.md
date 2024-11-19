@@ -7,7 +7,7 @@ Display attendance details for a given date and section.
 Clean-up dynamically allocated memory upon exiting the program.
 How to Use:
 Compile the Code: Ensure you have a C++ compiler installed on your system. Compile the code using your preferred compiler. For example:
-CSS
+css
 g++ main.cpp -o student_attendance
 Run the Program: Execute the compiled program. For example:
 
